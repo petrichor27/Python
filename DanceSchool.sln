@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DanceSchool", "DanceSchool\DanceSchool.pyproj", "{8691D775-D45B-4FC0-AC41-4F1251AD44FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8691D775-D45B-4FC0-AC41-4F1251AD44FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8691D775-D45B-4FC0-AC41-4F1251AD44FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74604FDB-C979-4845-82BA-060B6F95E212}
+	EndGlobalSection
+EndGlobal

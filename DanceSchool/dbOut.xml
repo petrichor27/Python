@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='ASCII'?>
+<course_table>
+    <course><id_cor>1</id_cor><name>&#1058;&#1072;&#1085;&#1075;&#1086;</name><price>1500.0</price></course><course><id_cor>2</id_cor><name>&#1057;&#1072;&#1084;&#1073;&#1086;</name><price>1500.0</price></course><course><id_cor>3</id_cor><name>&#1042;&#1072;&#1083;&#1100;&#1089;</name><price>2000.0</price></course><course><id_cor>4</id_cor><name>&#1053;&#1072;&#1088;&#1086;&#1076;&#1085;&#1099;&#1077; &#1090;&#1072;&#1085;&#1094;&#1099;</name><price>1000.0</price></course><course><id_cor>5</id_cor><name>&#1050;&#1086;&#1085;&#1090;&#1077;&#1084;&#1087;</name><price>1485.0</price></course></course_table>
